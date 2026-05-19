@@ -1,8 +1,8 @@
 # Sistema de Inventario
 
-Proyecto desarrollado en PHP y MySQL.
+Aplicación web desarrollada en PHP y MySQL para la gestión de inventario.
 
-## Funciones
+## Funcionalidades
 - CRUD de productos
 - CRUD de categorías
 - CRUD de proveedores
@@ -11,5 +11,9 @@ Proyecto desarrollado en PHP y MySQL.
 ## Tecnologías
 - PHP
 - MySQL
+- JavaScript
+- CSS
 - GitHub
-- SCRUM
+
+## Base de Datos
+El proyecto incluye el archivo SQL para importar la base de datos.
