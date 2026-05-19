@@ -13,3 +13,4 @@ CSS
 GitHub
 Base de Datos
 El proyecto incluye el archivo SQL para importar la base de datos.
+* Proyecto listo para evaluación final.
