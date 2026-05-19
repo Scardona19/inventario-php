@@ -1,0 +1,60 @@
+/* css/style.css */
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+    letter-spacing: 0.5px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.card-header {
+    border-radius: 12px 12px 0 0 !important;
+    font-weight: 600;
+}
+
+.stat-card {
+    transition: transform 0.2s;
+}
+.stat-card:hover {
+    transform: translateY(-3px);
+}
+.stat-icon {
+    font-size: 2.5rem;
+    opacity: 0.85;
+}
+
+.table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.badge-stock-low {
+    background-color: #dc3545;
+}
+.badge-stock-ok {
+    background-color: #198754;
+}
+
+.btn-action {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
+
+.page-title {
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.alert {
+    border-radius: 10px;
+}
